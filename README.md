@@ -30,7 +30,15 @@ Start web server:
 $ pnpm run dev
 ```
 
-Go to http://localhost:5173/
+Go to http://localhost:5173
+
+## Start Storybook
+
+```sh
+$ pnpm run storybook
+```
+
+Go to http://localhost:6006
 
 ## Prettier
 
