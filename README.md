@@ -1,5 +1,7 @@
 # SvelteKit SSR + TailwindCSS + Storybook POC
 
+Project status: I stopped this project to move on to https://histoire.dev/
+
 Components and libraries:
 
 - [x] [SSR](https://kit.svelte.dev/docs/page-options#ssr) [SvelteKit](https://github.com/sveltejs/kit) with [Hydration](https://kit.svelte.dev/docs/glossary#hydration)
