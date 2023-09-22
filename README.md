@@ -1,6 +1,6 @@
 # SvelteKit SSR + TailwindCSS + Storybook POC
 
-Project status: I stopped this project to move on to https://histoire.dev/
+Project status: I stopped this project to move on to <https://histoire.dev/>, see https://github.com/stephane-klein/poc-sveltekit-ssr-tailwindcss-histoire
 
 Components and libraries:
 
